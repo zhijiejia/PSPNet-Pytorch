@@ -7,3 +7,13 @@
 ### dataset: PASCAL 2012 Aug
 
 ![mIOU.png](miou.png)
+
+
+# How to Train Local
+
+### download the VOCdevkit(it contains the VOC2012)
+### run train.py
+
+# Project Structure
+
+
