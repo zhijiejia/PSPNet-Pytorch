@@ -11,8 +11,8 @@
 
 # How to Train Local
 
-### download the VOCdevkit(it contains the VOC2012)
-### run train.py
+#### download the VOCdevkit(it contains the VOC2012)
+#### run train.py
 
 # Project Structure
 
