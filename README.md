@@ -8,6 +8,11 @@
 
 ![mIOU.png](miou.png)
 
+# Version
+
+#### RTX2080Ti * 2
+#### Cuda Version: 10.2
+#### Pytorch Version: 1.7.0
 
 # How to Train Local
 
