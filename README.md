@@ -6,4 +6,4 @@
 ### best mIOU: 78%
 ### dataset: PASCAL 2012 Aug
 
-![image](miou.png)
+![mIOU.png](miou.png)
